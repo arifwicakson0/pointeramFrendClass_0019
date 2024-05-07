@@ -27,5 +27,8 @@
     <ClCompile Include="ops4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ops5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
