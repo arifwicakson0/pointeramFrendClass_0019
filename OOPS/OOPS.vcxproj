@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="OOPS.cpp" />
     <ClCompile Include="opp2.cpp" />
+    <ClCompile Include="ops3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

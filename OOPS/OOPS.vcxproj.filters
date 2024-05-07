@@ -21,5 +21,8 @@
     <ClCompile Include="opp2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ops3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
